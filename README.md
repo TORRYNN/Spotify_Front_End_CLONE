@@ -1,6 +1,7 @@
 
 <img width="100%" height="" src="https://github.com/user-attachments/assets/995b5861-db6b-41d1-95d0-c7548095bba8" alt="thumbnail" />
-# <img width="100%" height="" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="features" /> 🎧 Spotify Front-end Clone
+
+# <img width="100%" height="" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="features" />🎧 Spotify Front-end Clone
 
 Welcome to the ` Spotify Front-end Clone `! This project is a recreation of the Spotify web interface using HTML, CSS, and JavaScript. It showcases modern web design principles and interactive elements.
 
