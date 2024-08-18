@@ -21,7 +21,7 @@ Welcome to the ` Spotify Front-end Clone `! This project is a recreation of the 
 
 ### Prerequisites
 
-Ensure you have a modern web browser to view the project.
+Ensure you have a latest web browser to view the project.
 
 ### Installation
 
